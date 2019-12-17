@@ -1,7 +1,5 @@
 # ecto_paginator
 
-[Documentation](https://hexdocs.pm/ecto_paginator)
-
 ## Concept
 
 Secure cursor-based pagination for Ecto.
